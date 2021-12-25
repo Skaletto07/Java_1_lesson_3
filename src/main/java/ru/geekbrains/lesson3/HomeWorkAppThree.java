@@ -80,8 +80,6 @@ public class HomeWorkAppThree {
         System.out.println("Max = " + max + " Min = " + min);
     }
 
-
-
         }
 
 
