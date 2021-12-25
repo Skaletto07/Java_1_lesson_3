@@ -48,11 +48,11 @@ public class HomeWorkAppThree {
         System.out.println();
         System.out.println("Четвертое задание: ");
         int[][] arr = new int[5][5];
-        int c =1;;
+        int d =1;;
         for (int a = 0; a < arr.length; a++) {
             for (int b = 0; b < arr.length; b++) {
                 if (arr[a][a] == arr[b][b]) {
-                    arr [a][b] = c;
+                    arr [a][b] = d;
                 }
                 System.out.print(arr[a][b] + " ");
             }
